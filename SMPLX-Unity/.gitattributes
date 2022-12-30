@@ -1,0 +1,5 @@
+Asset/hw2.unity filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/f6/f688dc2daab1c91e3ebf8bbda3546149 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/e2/e2f52eb7544505c26501efb0d4bf3272 filter=lfs diff=lfs merge=lfs -text
+SMPLX-Unity/Assets/Scenes/SampleScene.unity filter=lfs diff=lfs merge=lfs -text
+SMPLX-Unity/Library/Artifacts/53/535c62e0a1f586a452b338ff34093947 filter=lfs diff=lfs merge=lfs -text

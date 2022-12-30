@@ -1,0 +1,2 @@
+SMPLX-Unity/Library/Artifacts/53/535c62e0a1f586a452b338ff34093947 filter=lfs diff=lfs merge=lfs -text
+SMPLX-Unity/Assets/Scenes/SampleScene.unity filter=lfs diff=lfs merge=lfs -text
